@@ -1,6 +1,5 @@
 # Ruby-calculator
 Ruby计算器
-# calculator.rb: 这是一个单行注释，用于提供有关文件内容的简要说明。
 
 def add(a, b): 这是一个定义方法的语句。它定义了一个名为add的方法，该方法接受两个参数a和b。
 
